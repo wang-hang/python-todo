@@ -1,4 +1,4 @@
-# 使用wxpython构建的非常简单的Todo List
+# 使用wxpython构建的非常简单的Todo List 应用
 
 ## 安装wxpython
 
